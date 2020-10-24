@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L_3_task_1.Program" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EntryPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.geometrical_figure" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.Triangle" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoQEAAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.Square" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgAAAAAAAIAAAAAAAQAAAAAAAQBAAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.Rectangle" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.Circle" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.Rhombus" Collapsed="true">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAAQAAAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_1.trapeze" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAQAAAAAAAAAEAAAAAgAAAAAAAQAJAAA=</HashCode>
+      <FileName>geometrical_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
